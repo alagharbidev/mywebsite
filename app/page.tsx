@@ -15,14 +15,14 @@ export default function Home() {
           className="text-5xl font-extrabold tracking-tight mt-10 text-center animate-[flash_1s_infinite]"
           style={{ animation: "flash 1s infinite" }}
         >
-          JEMAIIII YA MIPOUN 😹🔥
+          Montaaa YA MIPOUN 😹🔥  ta3ref te7seb   ======= i7seb ro7k mipoun
         </h1>
 
         <p
           className="mt-10 text-lg text-zinc-700 dark:text-zinc-300 text-center max-w-md"
           style={{ animation: "shake 0.8s infinite" }}
         >
-          Your system has been taken over by <strong>Jemaii ya Mipoun</strong>.
+          Your system has been taken over by <strong>Monttta ya Mipoun</strong>.
         </p>
 
         <button
